@@ -6,9 +6,9 @@
           <validation-observer ref="observer" slim>
             <form @submit.prevent="handleSubmit(invalid)">
               <div class="login-head text-center">
-                <h1 class="display-1 font-weight-bold">Selamat Datang</h1>
+                <h1 class="display-1 font-weight-bold">Selamat Datang di MyCommerce</h1>
                 <p class="text-gray font-weight-light mt-2">
-                  Masukkan email dan password anda untuk mengakses akun anda
+                  Masukkan email dan password  anda untuk mengakses akun anda
                 </p>
               </div>
 
